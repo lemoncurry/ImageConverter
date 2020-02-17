@@ -1,0 +1,12 @@
+.DS_Store
+.class
+build/
+git-*
+.gradle/
+.idea/
+**/out
+bin/
+*.iml
+KE1*
+KE2*
+KE3*
